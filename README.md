@@ -1,2 +1,2 @@
 # stepik_selenium_WebDriver
-My homework is PERFECT! *_____*
+My homework for course! Link: https://stepik.org/course/575
